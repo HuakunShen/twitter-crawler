@@ -1,0 +1,2572 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-871492244200607744",
+                    "sortIndex": "1487236782851358698",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo4NzE0OTIyNDQyMDA2MDc3NDQ=",
+                            "rest_id": "871492244200607744",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Sun Jun 04 22:21:57 +0000 2017",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "We retweet Tesla Owner Club worldwide activities.   Events, new owner education, community outreach -- Tesla owners are active!",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "tesla.com/ownersclub",
+                                      "expanded_url": "http://www.tesla.com/ownersclub",
+                                      "url": "https://t.co/vzeRjC2gKq",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 125,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 9269,
+                              "following": false,
+                              "friends_count": 138,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 99,
+                              "location": "Everywhere you find a Tesla",
+                              "media_count": 21,
+                              "muting": false,
+                              "name": "Tesla Owners Global",
+                              "normal_followers_count": 9269,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1184545846425247751"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 28.96,
+                                          "rgb": { "blue": 184, "green": 173, "red": 165 }
+                                        },
+                                        {
+                                          "percentage": 20.22,
+                                          "rgb": { "blue": 75, "green": 56, "red": 45 }
+                                        },
+                                        {
+                                          "percentage": 16.5,
+                                          "rgb": { "blue": 164, "green": 132, "red": 106 }
+                                        },
+                                        {
+                                          "percentage": 4.34,
+                                          "rgb": { "blue": 117, "green": 111, "red": 155 }
+                                        },
+                                        {
+                                          "percentage": 2.87,
+                                          "rgb": { "blue": 114, "green": 67, "red": 34 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/871492244200607744/1593456632",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 92.49,
+                                          "rgb": { "blue": 0, "green": 0, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 5.39,
+                                          "rgb": { "blue": 200, "green": 200, "red": 200 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277675000552583169/x01AVhs5_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "TeslaOwnersWW",
+                              "statuses_count": 393,
+                              "translator_type": "none",
+                              "url": "https://t.co/vzeRjC2gKq",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-308795969",
+                    "sortIndex": "1487236782851358697",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozMDg3OTU5Njk=",
+                            "rest_id": "308795969",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Jun 01 00:58:14 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Executive Editor at @IGN. Host of RIDE THE LIGHTNING: @Tesla Unofficial Podcast. The \"DMC\" is because I used to own a DeLorean.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "patreon.com/teslapodcast",
+                                      "expanded_url": "https://www.patreon.com/teslapodcast",
+                                      "url": "https://t.co/se6ArcX0ih",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 116225,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 146237,
+                              "following": false,
+                              "friends_count": 547,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 1185,
+                              "location": "San Francisco, CA",
+                              "media_count": 5000,
+                              "muting": false,
+                              "name": "Ryan McCaffrey",
+                              "normal_followers_count": 146237,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1135169193433866240"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 60.25,
+                                          "rgb": { "blue": 46, "green": 47, "red": 42 }
+                                        },
+                                        {
+                                          "percentage": 33.45,
+                                          "rgb": { "blue": 112, "green": 120, "red": 112 }
+                                        },
+                                        {
+                                          "percentage": 3.05,
+                                          "rgb": { "blue": 207, "green": 209, "red": 196 }
+                                        },
+                                        {
+                                          "percentage": 1.22,
+                                          "rgb": { "blue": 92, "green": 145, "red": 178 }
+                                        },
+                                        {
+                                          "percentage": 0.91,
+                                          "rgb": { "blue": 57, "green": 75, "red": 91 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/308795969/1641582533",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 46.88,
+                                          "rgb": { "blue": 55, "green": 197, "red": 127 }
+                                        },
+                                        {
+                                          "percentage": 18.46,
+                                          "rgb": { "blue": 82, "green": 119, "red": 149 }
+                                        },
+                                        {
+                                          "percentage": 10.27,
+                                          "rgb": { "blue": 130, "green": 214, "red": 159 }
+                                        },
+                                        {
+                                          "percentage": 8.15,
+                                          "rgb": { "blue": 189, "green": 192, "red": 196 }
+                                        },
+                                        {
+                                          "percentage": 8.0,
+                                          "rgb": { "blue": 39, "green": 60, "red": 83 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473097690913247234/7GnxQmh7_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "DMC_Ryan",
+                              "statuses_count": 55814,
+                              "translator_type": "none",
+                              "url": "https://t.co/se6ArcX0ih",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-29873662",
+                    "sortIndex": "1487236782851358696",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyOTg3MzY2Mg==",
+                            "rest_id": "29873662",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Apr 09 00:50:00 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM @TheStudio",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "youtube.com/MKBHD",
+                                      "expanded_url": "http://youtube.com/MKBHD",
+                                      "url": "https://t.co/aRknc0Sakm",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 27533,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 5273187,
+                              "following": false,
+                              "friends_count": 418,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 13036,
+                              "location": "NYC",
+                              "media_count": 7539,
+                              "muting": false,
+                              "name": "Marques Brownlee",
+                              "normal_followers_count": 5273187,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1476988122986647553"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 91.84,
+                                          "rgb": { "blue": 223, "green": 220, "red": 216 }
+                                        },
+                                        {
+                                          "percentage": 7.05,
+                                          "rgb": { "blue": 24, "green": 24, "red": 24 }
+                                        },
+                                        {
+                                          "percentage": 0.11,
+                                          "rgb": { "blue": 120, "green": 119, "red": 145 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1642786557",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 53.44,
+                                          "rgb": { "blue": 232, "green": 231, "red": 233 }
+                                        },
+                                        {
+                                          "percentage": 19.92,
+                                          "rgb": { "blue": 36, "green": 31, "red": 220 }
+                                        },
+                                        {
+                                          "percentage": 10.81,
+                                          "rgb": { "blue": 38, "green": 40, "red": 55 }
+                                        },
+                                        {
+                                          "percentage": 6.39,
+                                          "rgb": { "blue": 87, "green": 109, "red": 167 }
+                                        },
+                                        {
+                                          "percentage": 1.41,
+                                          "rgb": { "blue": 13, "green": 10, "red": 127 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1468001914302390278/B_Xv_8gu_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "MKBHD",
+                              "statuses_count": 52182,
+                              "translator_type": "regular",
+                              "url": "https://t.co/aRknc0Sakm",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-275686563",
+                    "sortIndex": "1487236782851358695",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNzU2ODY1NjM=",
+                            "rest_id": "275686563",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "theverge.com",
+                                      "expanded_url": "http://www.theverge.com",
+                                      "url": "https://t.co/W2SFxIXkC4",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "theverge.com",
+                                      "expanded_url": "http://www.theverge.com",
+                                      "url": "http://t.co/W2SFxIXkC4",
+                                      "indices": [0, 22]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1432,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 2919464,
+                              "following": false,
+                              "friends_count": 179,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 37577,
+                              "location": "New York",
+                              "media_count": 150297,
+                              "muting": false,
+                              "name": "The Verge",
+                              "normal_followers_count": 2919464,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 40.99,
+                                          "rgb": { "blue": 11, "green": 9, "red": 7 }
+                                        },
+                                        {
+                                          "percentage": 10.56,
+                                          "rgb": { "blue": 166, "green": 2, "red": 66 }
+                                        },
+                                        {
+                                          "percentage": 9.45,
+                                          "rgb": { "blue": 97, "green": 8, "red": 46 }
+                                        },
+                                        {
+                                          "percentage": 6.6,
+                                          "rgb": { "blue": 225, "green": 226, "red": 234 }
+                                        },
+                                        {
+                                          "percentage": 4.45,
+                                          "rgb": { "blue": 221, "green": 1, "red": 99 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1601391578",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 72.92,
+                                          "rgb": { "blue": 0, "green": 0, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 11.91,
+                                          "rgb": { "blue": 212, "green": 212, "red": 212 }
+                                        },
+                                        {
+                                          "percentage": 6.96,
+                                          "rgb": { "blue": 140, "green": 0, "red": 237 }
+                                        },
+                                        {
+                                          "percentage": 6.7,
+                                          "rgb": { "blue": 144, "green": 48, "red": 55 }
+                                        },
+                                        {
+                                          "percentage": 0.6,
+                                          "rgb": { "blue": 170, "green": 112, "red": 117 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "verge",
+                              "statuses_count": 204302,
+                              "translator_type": "regular",
+                              "url": "http://t.co/W2SFxIXkC4",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-1654188770",
+                    "sortIndex": "1487236782851358694",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNjU0MTg4Nzcw",
+                            "rest_id": "1654188770",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Aug 08 00:24:30 +0000 2013",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official Twitter account for the @SpaceX Hyperloop Pod Competition",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "spacex.com/hyperloop",
+                                      "expanded_url": "http://www.spacex.com/hyperloop",
+                                      "url": "http://t.co/IVdF09f2Eu",
+                                      "indices": [0, 22]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 84,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 252970,
+                              "following": false,
+                              "friends_count": 90,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1041,
+                              "location": "Hawthorne, CA",
+                              "media_count": 36,
+                              "muting": false,
+                              "name": "Hyperloop",
+                              "normal_followers_count": 252970,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 98.4,
+                                          "rgb": { "blue": 0, "green": 0, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 1.4,
+                                          "rgb": { "blue": 122, "green": 122, "red": 122 }
+                                        },
+                                        {
+                                          "percentage": 0.2,
+                                          "rgb": { "blue": 202, "green": 202, "red": 202 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654188770/1548458244",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 59.33,
+                                          "rgb": { "blue": 44, "green": 44, "red": 44 }
+                                        },
+                                        {
+                                          "percentage": 28.95,
+                                          "rgb": { "blue": 127, "green": 127, "red": 127 }
+                                        },
+                                        {
+                                          "percentage": 19.02,
+                                          "rgb": { "blue": 197, "green": 197, "red": 197 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088938864691970048/wzhp5jq2_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "Hyperloop",
+                              "statuses_count": 115,
+                              "translator_type": "none",
+                              "url": "http://t.co/IVdF09f2Eu",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-729468343",
+                    "sortIndex": "1487236782851358693",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3Mjk0NjgzNDM=",
+                            "rest_id": "729468343",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Jul 31 23:17:58 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Season 5 returns to @AdultSwim on June 20!",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "rickandmorty.com",
+                                      "expanded_url": "http://www.rickandmorty.com",
+                                      "url": "https://t.co/S00qH6VuBc",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 12629,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 2196790,
+                              "following": false,
+                              "friends_count": 223,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 2150,
+                              "location": "",
+                              "media_count": 1140,
+                              "muting": false,
+                              "name": "Rick and Morty",
+                              "normal_followers_count": 2196790,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 26.65,
+                                          "rgb": { "blue": 178, "green": 207, "red": 216 }
+                                        },
+                                        {
+                                          "percentage": 14.43,
+                                          "rgb": { "blue": 48, "green": 63, "red": 74 }
+                                        },
+                                        {
+                                          "percentage": 10.66,
+                                          "rgb": { "blue": 33, "green": 202, "red": 206 }
+                                        },
+                                        {
+                                          "percentage": 9.16,
+                                          "rgb": { "blue": 86, "green": 105, "red": 168 }
+                                        },
+                                        {
+                                          "percentage": 3.92,
+                                          "rgb": { "blue": 106, "green": 195, "red": 227 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/729468343/1620046601",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 40.06,
+                                          "rgb": { "blue": 6, "green": 11, "red": 44 }
+                                        },
+                                        {
+                                          "percentage": 31.34,
+                                          "rgb": { "blue": 189, "green": 186, "red": 201 }
+                                        },
+                                        {
+                                          "percentage": 9.33,
+                                          "rgb": { "blue": 2, "green": 5, "red": 23 }
+                                        },
+                                        {
+                                          "percentage": 7.61,
+                                          "rgb": { "blue": 16, "green": 21, "red": 84 }
+                                        },
+                                        {
+                                          "percentage": 4.68,
+                                          "rgb": { "blue": 178, "green": 179, "red": 145 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/897250392022540288/W1T-QjML_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "RickandMorty",
+                              "statuses_count": 4939,
+                              "translator_type": "none",
+                              "url": "https://t.co/S00qH6VuBc",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-1282121312",
+                    "sortIndex": "1487236782851358692",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjgyMTIxMzEy",
+                            "rest_id": "1282121312",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Mar 20 02:43:48 +0000 2013",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Writer, infant",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "waitbutwhy.com",
+                                      "expanded_url": "http://waitbutwhy.com",
+                                      "url": "http://t.co/u8Pq85uJUz",
+                                      "indices": [0, 22]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1903,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 434836,
+                              "following": false,
+                              "friends_count": 689,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 4394,
+                              "location": "",
+                              "media_count": 964,
+                              "muting": false,
+                              "name": "Tim Urban",
+                              "normal_followers_count": 434836,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1476962460049584136"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 9.3,
+                                          "rgb": { "blue": 249, "green": 249, "red": 249 }
+                                        },
+                                        {
+                                          "percentage": 7.45,
+                                          "rgb": { "blue": 251, "green": 67, "red": 146 }
+                                        },
+                                        {
+                                          "percentage": 7.07,
+                                          "rgb": { "blue": 254, "green": 253, "red": 45 }
+                                        },
+                                        {
+                                          "percentage": 5.94,
+                                          "rgb": { "blue": 49, "green": 248, "red": 146 }
+                                        },
+                                        {
+                                          "percentage": 5.45,
+                                          "rgb": { "blue": 56, "green": 249, "red": 255 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282121312/1480626864",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 52.56,
+                                          "rgb": { "blue": 246, "green": 248, "red": 247 }
+                                        },
+                                        {
+                                          "percentage": 10.61,
+                                          "rgb": { "blue": 6, "green": 12, "red": 13 }
+                                        },
+                                        {
+                                          "percentage": 8.95,
+                                          "rgb": { "blue": 26, "green": 250, "red": 249 }
+                                        },
+                                        {
+                                          "percentage": 3.78,
+                                          "rgb": { "blue": 81, "green": 196, "red": 194 }
+                                        },
+                                        {
+                                          "percentage": 1.98,
+                                          "rgb": { "blue": 11, "green": 17, "red": 221 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000096549990/2b5b8a614e16b1527ebb75e1a7266d85_normal.jpeg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "waitbutwhy",
+                              "statuses_count": 3843,
+                              "translator_type": "none",
+                              "url": "http://t.co/u8Pq85uJUz",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-40303245",
+                    "sortIndex": "1487236782851358691",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MDMwMzI0NQ==",
+                            "rest_id": "40303245",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Fri May 15 18:42:05 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Senior Reporter covering the future of transportation+energy @business. Also tracking vaccines with Bloomberg Vaccine Tracker. Opinions are, too often, my own.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "bloomberg.com",
+                                      "expanded_url": "https://www.bloomberg.com",
+                                      "url": "https://t.co/Un9fBVjY3B",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 7328,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 25801,
+                              "following": false,
+                              "friends_count": 2650,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 812,
+                              "location": "New York, NY",
+                              "media_count": 1579,
+                              "muting": false,
+                              "name": "Tom Randall",
+                              "normal_followers_count": 25801,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1333839338942160896"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 57.85,
+                                          "rgb": { "blue": 201, "green": 198, "red": 194 }
+                                        },
+                                        {
+                                          "percentage": 37.48,
+                                          "rgb": { "blue": 121, "green": 119, "red": 117 }
+                                        },
+                                        {
+                                          "percentage": 4.67,
+                                          "rgb": { "blue": 47, "green": 48, "red": 48 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/40303245/1436928521",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 41.06,
+                                          "rgb": { "blue": 41, "green": 44, "red": 48 }
+                                        },
+                                        {
+                                          "percentage": 34.6,
+                                          "rgb": { "blue": 174, "green": 188, "red": 206 }
+                                        },
+                                        {
+                                          "percentage": 32.66,
+                                          "rgb": { "blue": 110, "green": 117, "red": 121 }
+                                        },
+                                        {
+                                          "percentage": 0.34,
+                                          "rgb": { "blue": 110, "green": 124, "red": 140 }
+                                        },
+                                        {
+                                          "percentage": 0.16,
+                                          "rgb": { "blue": 91, "green": 103, "red": 125 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/626431725724434432/Ou0TvjI__normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "tsrandall",
+                              "statuses_count": 7149,
+                              "translator_type": "none",
+                              "url": "https://t.co/Un9fBVjY3B",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-719606938829471744",
+                    "sortIndex": "1487236782851358690",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3MTk2MDY5Mzg4Mjk0NzE3NDQ=",
+                            "rest_id": "719606938829471744",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Apr 11 19:23:58 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "We’re the official partner of the Tesla Owners Club Program based in Orange County (California). Sign up information - https://t.co/au7IszXRZI",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "octeslaclub.com",
+                                      "expanded_url": "http://octeslaclub.com",
+                                      "url": "https://t.co/au7IszXRZI",
+                                      "indices": [119, 142]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "octeslaclub.com",
+                                      "expanded_url": "http://octeslaclub.com/",
+                                      "url": "https://t.co/pnaLURzezm",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2528,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 6264,
+                              "following": false,
+                              "friends_count": 463,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 85,
+                              "location": "Orange County, CA",
+                              "media_count": 563,
+                              "muting": false,
+                              "name": "Tesla Owners of Orange County",
+                              "normal_followers_count": 6264,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1402478425810489351"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 36.83,
+                                          "rgb": { "blue": 146, "green": 157, "red": 165 }
+                                        },
+                                        {
+                                          "percentage": 28.22,
+                                          "rgb": { "blue": 251, "green": 185, "red": 135 }
+                                        },
+                                        {
+                                          "percentage": 17.24,
+                                          "rgb": { "blue": 62, "green": 41, "red": 32 }
+                                        },
+                                        {
+                                          "percentage": 4.94,
+                                          "rgb": { "blue": 233, "green": 160, "red": 110 }
+                                        },
+                                        {
+                                          "percentage": 1.34,
+                                          "rgb": { "blue": 26, "green": 18, "red": 58 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/719606938829471744/1465412930",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 89.01,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 3.92,
+                                          "rgb": { "blue": 126, "green": 110, "red": 230 }
+                                        },
+                                        {
+                                          "percentage": 3.91,
+                                          "rgb": { "blue": 231, "green": 230, "red": 247 }
+                                        },
+                                        {
+                                          "percentage": 2.16,
+                                          "rgb": { "blue": 163, "green": 153, "red": 237 }
+                                        },
+                                        {
+                                          "percentage": 0.29,
+                                          "rgb": { "blue": 51, "green": 24, "red": 232 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324214643045199873/6HdA-xAW_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "OCTeslaClub",
+                              "statuses_count": 4648,
+                              "translator_type": "none",
+                              "url": "https://t.co/pnaLURzezm",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-2562289441",
+                    "sortIndex": "1487236782851358689",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNTYyMjg5NDQx",
+                            "rest_id": "2562289441",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Wed Jun 11 23:29:35 +0000 2014",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Philly Gal, long time Tesla owner, washed up YouTuber, first day Autopilot user, Eagles fan, pint sized powerhouse. she/her",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "youtube.com/electricjen",
+                                      "expanded_url": "http://youtube.com/electricjen",
+                                      "url": "https://t.co/QFt0IVHJ3U",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 7713,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 2726,
+                              "following": false,
+                              "friends_count": 202,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 55,
+                              "location": "",
+                              "media_count": 1011,
+                              "muting": false,
+                              "name": "Electric Jen",
+                              "normal_followers_count": 2726,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1463626030619451401"],
+                              "profile_banner_extensions": { "mediaColor": { "r": {} } },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2562289441/1459728178",
+                              "profile_image_extensions": { "mediaColor": { "r": {} } },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/720584143134990336/uUtBPD-S_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "ElectricJen",
+                              "statuses_count": 10413,
+                              "translator_type": "none",
+                              "url": "https://t.co/QFt0IVHJ3U",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-722415142579806208",
+                    "sortIndex": "1487236782851358688",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3MjI0MTUxNDI1Nzk4MDYyMDg=",
+                            "rest_id": "722415142579806208",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Tue Apr 19 13:22:46 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Partner of the Tesla Owners Club Program.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "Ontario.teslaownersclub.ca",
+                                      "expanded_url": "http://Ontario.teslaownersclub.ca",
+                                      "url": "https://t.co/Z1S7zlnT6q",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 466,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 4891,
+                              "following": false,
+                              "friends_count": 385,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 61,
+                              "location": "Ontario, Canada",
+                              "media_count": 314,
+                              "muting": false,
+                              "name": "Tesla Owners Ontario",
+                              "normal_followers_count": 4891,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 58.34,
+                                          "rgb": { "blue": 178, "green": 179, "red": 180 }
+                                        },
+                                        {
+                                          "percentage": 30.54,
+                                          "rgb": { "blue": 46, "green": 46, "red": 46 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/722415142579806208/1461082210",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 93.16,
+                                          "rgb": { "blue": 0, "green": 0, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 3.78,
+                                          "rgb": { "blue": 129, "green": 129, "red": 129 }
+                                        },
+                                        {
+                                          "percentage": 3.74,
+                                          "rgb": { "blue": 222, "green": 222, "red": 222 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455905392345616384/5GEhP3IQ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "TeslaOwnersONT",
+                              "statuses_count": 580,
+                              "translator_type": "none",
+                              "url": "https://t.co/Z1S7zlnT6q",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-2664505313",
+                    "sortIndex": "1487236782851358687",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNjY0NTA1MzEz",
+                            "rest_id": "2664505313",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Jul 02 16:45:01 +0000 2014",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Driving electric in the Midwest. Official Partner of the Tesla Owners Club Program",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "stltesla.org",
+                                      "expanded_url": "http://www.stltesla.org",
+                                      "url": "https://t.co/iQlKUwWk5I",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 8358,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 3424,
+                              "following": false,
+                              "friends_count": 466,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 48,
+                              "location": "St. Louis, MO",
+                              "media_count": 460,
+                              "muting": false,
+                              "name": "St. Louis Tesla",
+                              "normal_followers_count": 3424,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 24.38,
+                                          "rgb": { "blue": 9, "green": 25, "red": 18 }
+                                        },
+                                        {
+                                          "percentage": 21.86,
+                                          "rgb": { "blue": 196, "green": 194, "red": 203 }
+                                        },
+                                        {
+                                          "percentage": 13.39,
+                                          "rgb": { "blue": 7, "green": 5, "red": 209 }
+                                        },
+                                        {
+                                          "percentage": 12.1,
+                                          "rgb": { "blue": 21, "green": 71, "red": 56 }
+                                        },
+                                        {
+                                          "percentage": 4.96,
+                                          "rgb": { "blue": 204, "green": 176, "red": 243 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2664505313/1565894400",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 89.97,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 3.49,
+                                          "rgb": { "blue": 237, "green": 237, "red": 247 }
+                                        },
+                                        {
+                                          "percentage": 3.45,
+                                          "rgb": { "blue": 125, "green": 105, "red": 224 }
+                                        },
+                                        {
+                                          "percentage": 2.09,
+                                          "rgb": { "blue": 164, "green": 154, "red": 230 }
+                                        },
+                                        {
+                                          "percentage": 0.48,
+                                          "rgb": { "blue": 51, "green": 23, "red": 233 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324620451092533249/ZchBd1VR_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "StLTesla",
+                              "statuses_count": 2355,
+                              "translator_type": "none",
+                              "url": "https://t.co/iQlKUwWk5I",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4908464210",
+                    "sortIndex": "1487236782851358686",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0OTA4NDY0MjEw",
+                            "rest_id": "4908464210",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Sun Feb 14 21:59:47 +0000 2016",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "....Living the Electric Dream Advocacy, socials, workshops, rallies and more. Your official community of owners, future owners & fans in BC. All are welcome.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "tocbc.ca",
+                                      "expanded_url": "https://tocbc.ca/",
+                                      "url": "https://t.co/uk6vP1CDio",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 3105,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 5750,
+                              "following": false,
+                              "friends_count": 616,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 76,
+                              "location": "British Columbia",
+                              "media_count": 179,
+                              "muting": false,
+                              "name": "Tesla Owners Club of BC",
+                              "normal_followers_count": 5750,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1441242625554616320"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 61.81,
+                                          "rgb": { "blue": 55, "green": 25, "red": 228 }
+                                        },
+                                        {
+                                          "percentage": 10.77,
+                                          "rgb": { "blue": 14, "green": 46, "red": 132 }
+                                        },
+                                        {
+                                          "percentage": 9.9,
+                                          "rgb": { "blue": 254, "green": 254, "red": 254 }
+                                        },
+                                        {
+                                          "percentage": 7.92,
+                                          "rgb": { "blue": 136, "green": 116, "red": 234 }
+                                        },
+                                        {
+                                          "percentage": 6.7,
+                                          "rgb": { "blue": 24, "green": 24, "red": 78 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4908464210/1626741494",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 63.03,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 31.32,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 2.64,
+                                          "rgb": { "blue": 121, "green": 101, "red": 224 }
+                                        },
+                                        {
+                                          "percentage": 2.44,
+                                          "rgb": { "blue": 178, "green": 167, "red": 236 }
+                                        },
+                                        {
+                                          "percentage": 0.39,
+                                          "rgb": { "blue": 51, "green": 23, "red": 234 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422162653602992139/dDi7eIc1_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "TeslaOwnersBC",
+                              "statuses_count": 1434,
+                              "translator_type": "none",
+                              "url": "https://t.co/uk6vP1CDio",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4882441432",
+                    "sortIndex": "1487236782851358685",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0ODgyNDQxNDMy",
+                            "rest_id": "4882441432",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Feb 06 17:38:11 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Partner of the Tesla Owners Club Program",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "NTXTeslaOwners.com",
+                                      "expanded_url": "http://NTXTeslaOwners.com",
+                                      "url": "https://t.co/I1kuos8jTr",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4136,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 4786,
+                              "following": false,
+                              "friends_count": 318,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 55,
+                              "location": "Texas, USA",
+                              "media_count": 846,
+                              "muting": false,
+                              "name": "North Texas Tesla Owners Club",
+                              "normal_followers_count": 4786,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 35.03,
+                                          "rgb": { "blue": 51, "green": 32, "red": 24 }
+                                        },
+                                        {
+                                          "percentage": 23.53,
+                                          "rgb": { "blue": 161, "green": 181, "red": 182 }
+                                        },
+                                        {
+                                          "percentage": 10.36,
+                                          "rgb": { "blue": 87, "green": 46, "red": 23 }
+                                        },
+                                        {
+                                          "percentage": 7.65,
+                                          "rgb": { "blue": 147, "green": 117, "red": 88 }
+                                        },
+                                        {
+                                          "percentage": 3.67,
+                                          "rgb": { "blue": 12, "green": 3, "red": 130 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4882441432/1541281339",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 64.94,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 29.39,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 2.64,
+                                          "rgb": { "blue": 126, "green": 104, "red": 227 }
+                                        },
+                                        {
+                                          "percentage": 2.49,
+                                          "rgb": { "blue": 185, "green": 178, "red": 236 }
+                                        },
+                                        {
+                                          "percentage": 0.34,
+                                          "rgb": { "blue": 51, "green": 23, "red": 233 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324389485950455809/TVcGEkyU_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "NTXTeslaOwners",
+                              "statuses_count": 3262,
+                              "translator_type": "none",
+                              "url": "https://t.co/I1kuos8jTr",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4673234216",
+                    "sortIndex": "1487236782851358684",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NjczMjM0MjE2",
+                            "rest_id": "4673234216",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Tue Dec 29 14:37:01 +0000 2015",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official Partner of Tesla Owners Club Program; Representing Redding, Reno, Lake Tahoe, & Sacramento",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "NorCalReno.com",
+                                      "expanded_url": "http://www.NorCalReno.com",
+                                      "url": "https://t.co/NLnmyzhxkV",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4460,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 4595,
+                              "following": false,
+                              "friends_count": 99,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 54,
+                              "location": "California, USA",
+                              "media_count": 488,
+                              "muting": false,
+                              "name": "Tesla Owners NorCal-Reno",
+                              "normal_followers_count": 4595,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1403235072350687235"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 31.47,
+                                          "rgb": { "blue": 160, "green": 162, "red": 173 }
+                                        },
+                                        {
+                                          "percentage": 30.87,
+                                          "rgb": { "blue": 71, "green": 58, "red": 41 }
+                                        },
+                                        {
+                                          "percentage": 16.26,
+                                          "rgb": { "blue": 151, "green": 104, "red": 50 }
+                                        },
+                                        {
+                                          "percentage": 4.54,
+                                          "rgb": { "blue": 105, "green": 106, "red": 122 }
+                                        },
+                                        {
+                                          "percentage": 3.52,
+                                          "rgb": { "blue": 172, "green": 144, "red": 133 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4673234216/1622561941",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 68.85,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 21.42,
+                                          "rgb": { "blue": 0, "green": 0, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 3.96,
+                                          "rgb": { "blue": 234, "green": 235, "red": 249 }
+                                        },
+                                        {
+                                          "percentage": 1.78,
+                                          "rgb": { "blue": 162, "green": 154, "red": 236 }
+                                        },
+                                        {
+                                          "percentage": 1.75,
+                                          "rgb": { "blue": 102, "green": 77, "red": 218 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356666660170694661/a6lNO_DE_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "teslanorcalreno",
+                              "statuses_count": 3567,
+                              "translator_type": "none",
+                              "url": "https://t.co/NLnmyzhxkV",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4851606915",
+                    "sortIndex": "1487236782851358683",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0ODUxNjA2OTE1",
+                            "rest_id": "4851606915",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Jan 27 00:24:41 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Official Partner of the Tesla Owners Club Program info@southernaztesla.com",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "southernaztesla.com",
+                                      "expanded_url": "http://southernaztesla.com/",
+                                      "url": "https://t.co/wcIDea3W8u",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 18370,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 3856,
+                              "following": false,
+                              "friends_count": 240,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 52,
+                              "location": "",
+                              "media_count": 224,
+                              "muting": false,
+                              "name": "Southern AZ Tesla",
+                              "normal_followers_count": 3856,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 62.98,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 32.95,
+                                          "rgb": { "blue": 55, "green": 24, "red": 229 }
+                                        },
+                                        {
+                                          "percentage": 2.28,
+                                          "rgb": { "blue": 126, "green": 104, "red": 227 }
+                                        },
+                                        {
+                                          "percentage": 1.32,
+                                          "rgb": { "blue": 168, "green": 154, "red": 237 }
+                                        },
+                                        {
+                                          "percentage": 0.35,
+                                          "rgb": { "blue": 254, "green": 254, "red": 248 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324340532437372929/hYoL2iZB_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "SouthernAZTesla",
+                              "statuses_count": 10050,
+                              "translator_type": "none",
+                              "url": "https://t.co/wcIDea3W8u",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4004093599",
+                    "sortIndex": "1487236782851358682",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MDA0MDkzNTk5",
+                            "rest_id": "4004093599",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Oct 24 16:27:47 +0000 2015",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Tesla ModelX w/ Camping Trailer: \uD83C\uDDE8\uD83C\uDDE6: West 2 East - Done! \uD83C\uDDFA\uD83C\uDDF8: ME 2 FL 2 CA 2 WA 2 BC - DONE! \uD83C\uDDE8\uD83C\uDDE6&\uD83C\uDDFA\uD83C\uDDF8Total of 21,000 mi/ 33,000km fully electric & towing!",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "TeslaXCanada.com",
+                                      "expanded_url": "http://www.TeslaXCanada.com",
+                                      "url": "https://t.co/Jo0fo17bTe",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1109,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 1430,
+                              "following": false,
+                              "friends_count": 605,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 35,
+                              "location": "Victoria, British Columbia",
+                              "media_count": 337,
+                              "muting": false,
+                              "name": "Silke & Rolf",
+                              "normal_followers_count": 1430,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 48.87,
+                                          "rgb": { "blue": 42, "green": 37, "red": 50 }
+                                        },
+                                        {
+                                          "percentage": 20.37,
+                                          "rgb": { "blue": 115, "green": 121, "red": 121 }
+                                        },
+                                        {
+                                          "percentage": 7.81,
+                                          "rgb": { "blue": 246, "green": 184, "red": 143 }
+                                        },
+                                        {
+                                          "percentage": 4.65,
+                                          "rgb": { "blue": 78, "green": 55, "red": 39 }
+                                        },
+                                        {
+                                          "percentage": 3.65,
+                                          "rgb": { "blue": 59, "green": 58, "red": 49 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4004093599/1500174961",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 76.01,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 16.82,
+                                          "rgb": { "blue": 33, "green": 25, "red": 216 }
+                                        },
+                                        {
+                                          "percentage": 3.02,
+                                          "rgb": { "blue": 90, "green": 81, "red": 225 }
+                                        },
+                                        {
+                                          "percentage": 2.94,
+                                          "rgb": { "blue": 180, "green": 178, "red": 240 }
+                                        },
+                                        {
+                                          "percentage": 1.26,
+                                          "rgb": { "blue": 133, "green": 128, "red": 233 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/718975735717736449/VgbCf2Uf_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "TeslaXCanada",
+                              "statuses_count": 1370,
+                              "translator_type": "none",
+                              "url": "https://t.co/Jo0fo17bTe",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-4519121",
+                    "sortIndex": "1487236782851358681",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NTE5MTIx",
+                            "rest_id": "4519121",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Apr 13 16:59:37 +0000 2007",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "I make comics and games.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "theoatmeal.com",
+                                      "expanded_url": "http://theoatmeal.com",
+                                      "url": "https://t.co/hzHuiYtO6x",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 8590,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 648141,
+                              "following": false,
+                              "friends_count": 640,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 15285,
+                              "location": "Seattle, Washington",
+                              "media_count": 2162,
+                              "muting": false,
+                              "name": "The Oatmeal",
+                              "normal_followers_count": 648141,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": ["1422631731874516992"],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 78.42,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 3.16,
+                                          "rgb": { "blue": 57, "green": 65, "red": 76 }
+                                        },
+                                        {
+                                          "percentage": 2.78,
+                                          "rgb": { "blue": 106, "green": 112, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 2.54,
+                                          "rgb": { "blue": 32, "green": 148, "red": 248 }
+                                        },
+                                        {
+                                          "percentage": 2.13,
+                                          "rgb": { "blue": 54, "green": 210, "red": 178 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4519121/1585682848",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 22.64,
+                                          "rgb": { "blue": 255, "green": 255, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 20.67,
+                                          "rgb": { "blue": 214, "green": 187, "red": 0 }
+                                        },
+                                        {
+                                          "percentage": 19.92,
+                                          "rgb": { "blue": 106, "green": 112, "red": 255 }
+                                        },
+                                        {
+                                          "percentage": 13.43,
+                                          "rgb": { "blue": 54, "green": 210, "red": 179 }
+                                        },
+                                        {
+                                          "percentage": 10.86,
+                                          "rgb": { "blue": 31, "green": 147, "red": 248 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245071755086983168/7XnbiJBs_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "Oatmeal",
+                              "statuses_count": 8835,
+                              "translator_type": "none",
+                              "url": "https://t.co/hzHuiYtO6x",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-47285504",
+                    "sortIndex": "1487236782851358680",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NzI4NTUwNA==",
+                            "rest_id": "47285504",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Jun 15 07:37:07 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "A husband, father, actor, director, & a climate justice advocate with an eye out for a better, brighter, cleaner, & more hopeful future for all of us.",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "instagram.com/MarkRuffalo",
+                                      "expanded_url": "http://instagram.com/MarkRuffalo",
+                                      "url": "https://t.co/8TX3ewrd3v",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 26402,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 7820828,
+                              "following": false,
+                              "friends_count": 2290,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 15058,
+                              "location": "NYS",
+                              "media_count": 1914,
+                              "muting": false,
+                              "name": "Mark Ruffalo",
+                              "normal_followers_count": 7820828,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_banner_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 70.33,
+                                          "rgb": { "blue": 106, "green": 122, "red": 150 }
+                                        },
+                                        {
+                                          "percentage": 21.53,
+                                          "rgb": { "blue": 53, "green": 63, "red": 83 }
+                                        },
+                                        {
+                                          "percentage": 4.56,
+                                          "rgb": { "blue": 52, "green": 40, "red": 43 }
+                                        },
+                                        {
+                                          "percentage": 2.94,
+                                          "rgb": { "blue": 172, "green": 187, "red": 212 }
+                                        },
+                                        {
+                                          "percentage": 0.44,
+                                          "rgb": { "blue": 45, "green": 61, "red": 109 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/47285504/1448923378",
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 69.97,
+                                          "rgb": { "blue": 44, "green": 36, "red": 38 }
+                                        },
+                                        {
+                                          "percentage": 22.9,
+                                          "rgb": { "blue": 112, "green": 134, "red": 181 }
+                                        },
+                                        {
+                                          "percentage": 4.48,
+                                          "rgb": { "blue": 64, "green": 74, "red": 114 }
+                                        },
+                                        {
+                                          "percentage": 1.54,
+                                          "rgb": { "blue": 99, "green": 94, "red": 91 }
+                                        },
+                                        {
+                                          "percentage": 0.6,
+                                          "rgb": { "blue": 45, "green": 23, "red": 29 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/672121350689959936/6FZ2iZvr_normal.png",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "MarkRuffalo",
+                              "statuses_count": 48713,
+                              "translator_type": "none",
+                              "url": "https://t.co/8TX3ewrd3v",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "user-37605443",
+                    "sortIndex": "1487236782851358679",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozNzYwNTQ0Mw==",
+                            "rest_id": "37605443",
+                            "affiliates_highlighted_label": {},
+                            "has_nft_avatar": false,
+                            "legacy": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon May 04 05:49:31 +0000 2009",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "CEO shift7 (@shift7), 3rd U.S. CTO (2014-17), Entrepreneur, Engineer",
+                              "entities": {
+                                "description": { "urls": [] },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "shift7.com",
+                                      "expanded_url": "http://shift7.com",
+                                      "url": "https://t.co/IYRbBl3ClB",
+                                      "indices": [0, 23]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 8075,
+                              "follow_request_sent": false,
+                              "followed_by": false,
+                              "followers_count": 31143,
+                              "following": false,
+                              "friends_count": 885,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 898,
+                              "location": "Washington, DC",
+                              "media_count": 82,
+                              "muting": false,
+                              "name": "Megan Smith",
+                              "normal_followers_count": 31143,
+                              "notifications": false,
+                              "pinned_tweet_ids_str": [],
+                              "profile_image_extensions": {
+                                "mediaColor": {
+                                  "r": {
+                                    "ok": {
+                                      "palette": [
+                                        {
+                                          "percentage": 40.16,
+                                          "rgb": { "blue": 73, "green": 77, "red": 91 }
+                                        },
+                                        {
+                                          "percentage": 33.01,
+                                          "rgb": { "blue": 155, "green": 157, "red": 193 }
+                                        },
+                                        {
+                                          "percentage": 6.26,
+                                          "rgb": { "blue": 116, "green": 144, "red": 191 }
+                                        },
+                                        {
+                                          "percentage": 6.04,
+                                          "rgb": { "blue": 109, "green": 90, "red": 84 }
+                                        },
+                                        {
+                                          "percentage": 4.81,
+                                          "rgb": { "blue": 144, "green": 149, "red": 215 }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/486307862226796544/L0K_lED6_normal.jpeg",
+                              "profile_interstitial_type": "",
+                              "protected": false,
+                              "screen_name": "smithmegan",
+                              "statuses_count": 1345,
+                              "translator_type": "none",
+                              "url": "https://t.co/IYRbBl3ClB",
+                              "verified": true,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": { "component": "FollowingSgs", "element": "user" }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1487236782851358678",
+                    "sortIndex": "1487236782851358678",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "value": "1449889190198910933|1487236782851358676",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1487236782851358699",
+                    "sortIndex": "1487236782851358699",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "value": "-1|1487236782851358699",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
