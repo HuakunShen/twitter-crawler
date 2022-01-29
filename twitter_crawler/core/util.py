@@ -134,9 +134,9 @@ def extract_following_info(data: Dict):
 
 def scrape(username: str, headers: Dict, depth: int = 0, max_depth: int = 1, following_scrape_limit: int = 5,
            scraped_screen_names: Set = set(), delay: float = 1.0):
-    print(f"{'  ' * depth}scrape {username}")
     if depth > max_depth:
         return []
+    print(f"{'  ' * depth}scrape {username}")
     if username in scraped_screen_names:
         print(f"skip {username}")
     scraped_screen_names.add(username)
@@ -152,10 +152,12 @@ def scrape(username: str, headers: Dict, depth: int = 0, max_depth: int = 1, fol
         return []
     for url in urls:
         data.append({'username': username, 'url': url})
-    for user in following_info[:following_scrape_limit]:
-        data.extend(
-            scrape(user['screen_name'], headers, depth + 1, max_depth, scraped_screen_names=scraped_screen_names))
-        time.sleep(delay)
+    if depth <= max_depth:
+        for user in following_info[:following_scrape_limit]:
+            data.extend(
+                scrape(user['screen_name'], headers, depth + 1, max_depth, scraped_screen_names=scraped_screen_names,
+                       following_scrape_limit=following_scrape_limit, delay=delay))
+            time.sleep(delay)
     return data
 
 
@@ -186,7 +188,7 @@ def multiprocess_download(destination: Path, urls: List[str], delay: float = 0.5
     to_download = [{"destination": destination, "url": url, "delay": delay} for url in urls]
     with mp.Pool(mp.cpu_count()) as p:
         failed_urls = list(tqdm.tqdm(p.imap(_download, to_download), total=len(to_download)))
-    return failed_urls
+    return list(filter(lambda url: url is not None, failed_urls))
 
 
 def extract_user_id(data: Dict):
