@@ -70,18 +70,18 @@ def get_user_media_response(user_id: str, headers: Dict):
     variables = {
         "userId": user_id,
         "count": 10000,
-        "withTweetQuoteCount": False,
         "includePromotedContent": False,
         "withSuperFollowsUserFields": True,
-        "withBirdwatchPivots": False,
         "withDownvotePerspective": False,
         "withReactionsMetadata": False,
         "withReactionsPerspective": False,
-        "withSuperFollowsTweetFields": True,
+        "withSuperFollowsTweetFields": False,
         "withClientEventToken": False,
         "withBirdwatchNotes": False,
-        "withVoice": True,
+        "withVoice": False,
         "withV2Timeline": False,
+        "__fs_interactive_text": False,
+        "__fs_responsive_web_uc_gql_enabled": False,
         "__fs_dont_mention_me_view_api_enabled": False
     }
     variables_str = json.dumps(variables)
@@ -109,7 +109,9 @@ def get_following_response(user_id: str, headers: Dict):
 
 
 def extract_following_info(data: Dict):
-    following_instruction = data["data"]["user"]["result"]["timeline"]["timeline"]["instructions"]
+    result = data['data']['user']['result']
+    timeline = 'timeline_v2' if 'timeline_v2' in result.keys() else 'timeline'
+    following_instruction = data["data"]["user"]["result"][timeline]["timeline"]["instructions"]
     following = list(filter(lambda obj: obj['type'] == 'TimelineAddEntries', following_instruction))[0]['entries']
     following_info = []
     for user in following:
@@ -122,7 +124,6 @@ def extract_following_info(data: Dict):
                 "created_at": legacy["created_at"],
                 "description": legacy["description"],
                 "followers_count": legacy["followers_count"],
-                "media_count": legacy["media_count"],
                 "normal_followers_count": legacy["normal_followers_count"],
                 "screen_name": legacy["screen_name"]
             })
@@ -145,7 +146,8 @@ def scrape(username: str, headers: Dict, depth: int = 0, max_depth: int = 1, fol
         urls = profile.get_user_media_urls()
         time.sleep(delay)
         following_info = profile.get_following_info()
-    except Exception:
+    except Exception as e:
+        print(e)
         print(f"Error: {username} failed")
         return []
     for url in urls:
@@ -170,6 +172,23 @@ def sync_download(destination: Path, urls: List[str], delay: float = 0.5):
             print(f"failed to download {url}")
 
 
+def _download(data: Dict):
+    try:
+        target = data['destination'] / data['url'].split('/')[-1]
+        if not target.exists():
+            wget.download(data['url'], str(target))
+        time.sleep(data['delay'])
+    except Exception as e:
+        return data['url']
+
+
+def multiprocess_download(destination: Path, urls: List[str], delay: float = 0.5):
+    to_download = [{"destination": destination, "url": url, "delay": delay} for url in urls]
+    with mp.Pool(mp.cpu_count()) as p:
+        failed_urls = list(tqdm.tqdm(p.imap(_download, to_download), total=len(to_download)))
+    return failed_urls
+
+
 def extract_user_id(data: Dict):
     return data['data']['user']['result']['rest_id']
 
@@ -187,12 +206,16 @@ def extract_profile_banner_url(data: Dict):
 
 
 def extract_medias(data: Dict, entity_type: str = 'entities'):
-    entries = data['data']['user']['result']['timeline']['timeline']['instructions'][0]['entries']
+    result = data['data']['user']['result']
+    timeline = 'timeline_v2' if 'timeline_v2' in result.keys() else 'timeline'
+    entries = result[timeline]['timeline']['instructions'][0]['entries']
     medias = []
     for entry in entries:
         if 'itemContent' in entry['content'].keys():
-            entity = entry['content']['itemContent']['tweet_results']['result']['legacy'][entity_type]
-            if 'media' in entity.keys():
-                medias.append(entity['media'])
+            result = entry['content']['itemContent']['tweet_results']['result']
+            if 'legacy' in result.keys():
+                entity = result['legacy'][entity_type]
+                if 'media' in entity.keys():
+                    medias.append(entity['media'])
     medias_flatten = [y for x in medias for y in x]
     return medias_flatten
