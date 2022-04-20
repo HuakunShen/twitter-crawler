@@ -50,7 +50,7 @@ def get_header(chromedriver_path, options: List[str] = DEFAULT_CHROME_OPTIONS, f
         driver = webdriver.Chrome(chromedriver_path, options=chrome_options)
         driver.get(f'https://twitter.com')
         if auth:
-            x = input("Press Enter After login in")
+            input("Press Enter After login in")
         reqs = [req for req in driver.requests if re.match('https:\/\/twitter\.com.+Viewer\?variables.+', req.url)]
         req = reqs[-1] if reqs else None
         headers = dict(req.headers)
